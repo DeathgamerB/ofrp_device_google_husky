@@ -60,7 +60,7 @@ TARGET_KERNEL_SOURCE := kernel/google/generic
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
 ifeq ($(TARGET_FORCE_PREBUILT_KERNEL),true)
-TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/kernel
+TARGET_PREBUILT_KERNEL := device/google/husky/kernel
 endif
 
 # Partitions
