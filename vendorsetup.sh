@@ -14,6 +14,8 @@ export FOX_BUILD_TYPE="Alpha"
 export FOX_USE_NANO_EDITOR=1
 export FOX_ENABLE_APP_MANAGER=1
 export FOX_DELETE_AROMAFM=1
+export TW_MAX_BRIGHTNESS=2047
+export TW_DEFAULT_BRIGHTNESS=900
 
 add_lunch_combo omni_husky-user
 add_lunch_combo omni_husky-userdebug
