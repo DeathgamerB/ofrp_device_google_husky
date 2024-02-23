@@ -32,3 +32,6 @@ PRODUCT_PACKAGES += \
     update_engine \
     update_verifier \
     update_engine_sideload
+
+TARGET_SCREEN_HEIGHT := 2992
+TARGET_SCREEN_WIDTH := 1344
