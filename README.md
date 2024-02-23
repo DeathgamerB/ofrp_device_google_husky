@@ -1,4 +1,4 @@
-# OFRP device tree for Google Husky
+# twrp device tree for Google Husky
 
 ```
 #
