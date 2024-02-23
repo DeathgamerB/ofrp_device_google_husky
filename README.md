@@ -1,4 +1,4 @@
-# Android device tree for google mainline (generic)
+# OFRP device tree for Google Husky
 
 ```
 #
