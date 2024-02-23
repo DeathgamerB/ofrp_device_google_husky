@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_generic.mk
+    $(LOCAL_DIR)/omni_husky.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_generic-user \
-    omni_generic-userdebug \
-    omni_generic-eng
+    omni_husky-user \
+    omni_husky-userdebug \
+    omni_husky-eng
