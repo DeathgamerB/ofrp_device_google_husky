@@ -21,8 +21,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.zuma
 
-PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.zuma \
+PRODUCT_PACKAGES := \
     libgptutils \
     libz \
     libcutils
