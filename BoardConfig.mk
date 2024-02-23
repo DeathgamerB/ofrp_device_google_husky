@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/google/generic
+DEVICE_PATH := device/google/husky
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
