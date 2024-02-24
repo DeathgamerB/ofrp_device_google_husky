@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_husky.mk
+    $(LOCAL_DIR)/twrp_husky.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_husky-user \
-    omni_husky-userdebug \
-    omni_husky-eng
+    twrp_husky-user \
+    twrp_husky-userdebug \
+    twrp_husky-eng
