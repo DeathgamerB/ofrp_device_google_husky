@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/google/husky/device.mk)
 
 PRODUCT_DEVICE := husky
-PRODUCT_NAME := omni_husky
+PRODUCT_NAME := twrp_husky
 PRODUCT_BRAND := google
 PRODUCT_MODEL := mainline
 PRODUCT_MANUFACTURER := google
